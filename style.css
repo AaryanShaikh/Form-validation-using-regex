@@ -1,0 +1,22 @@
+form {
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+    border: 1px solid black;
+    background: aqua;
+}
+
+form>p {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 300px;
+    margin-left: 2%;
+    float: inline-end;
+}
+
+.alert {
+    color: red;
+}
